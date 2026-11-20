@@ -6,3 +6,8 @@ data/cache/
 data/raw/
 data/processed/
 .streamlit/
+# Authentication service secrets
+auth_api/.env
+auth_api/.env.*
+!auth_api/.env.example
+auth_api/.venv/
